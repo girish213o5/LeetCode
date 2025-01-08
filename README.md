@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/girish213o5/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/girish213o5/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0079-word-search](https://github.com/girish213o5/LeetCode/tree/master/0079-word-search) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/girish213o5/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/girish213o5/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0079-word-search](https://github.com/girish213o5/LeetCode/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
@@ -29,4 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/girish213o5/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/girish213o5/LeetCode/tree/master/0012-integer-to-roman) |
+| [0079-word-search](https://github.com/girish213o5/LeetCode/tree/master/0079-word-search) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/girish213o5/LeetCode/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/girish213o5/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
