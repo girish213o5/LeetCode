@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/girish213o5/LeetCode/tree/master/0012-integer-to-roman) |
 | [0079-word-search](https://github.com/girish213o5/LeetCode/tree/master/0079-word-search) |
 | [0214-shortest-palindrome](https://github.com/girish213o5/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0394-decode-string](https://github.com/girish213o5/LeetCode/tree/master/0394-decode-string) |
 | [0763-special-binary-string](https://github.com/girish213o5/LeetCode/tree/master/0763-special-binary-string) |
 ## Backtracking
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/girish213o5/LeetCode/tree/master/0394-decode-string) |
 | [0763-special-binary-string](https://github.com/girish213o5/LeetCode/tree/master/0763-special-binary-string) |
 ## Rolling Hash
 |  |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/girish213o5/LeetCode/tree/master/0214-shortest-palindrome) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/girish213o5/LeetCode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
