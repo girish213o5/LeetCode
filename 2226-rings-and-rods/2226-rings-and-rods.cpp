@@ -9,7 +9,7 @@ public:
         for(int i=0 ; i< l-1 ; i+=2)
         {
             if(rings[i]=='B')
-                B[(int)rings[i+1]-'0']=1;
+                B[(int)rings[i+1]-48]=1;
         
             if(rings[i]=='R')
                 R[(int)rings[i+1]-'0']=1;
