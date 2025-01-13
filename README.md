@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/girish213o5/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/girish213o5/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/girish213o5/LeetCode/tree/master/0079-word-search) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/girish213o5/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Matrix
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/girish213o5/LeetCode/tree/master/0012-integer-to-roman) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/girish213o5/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/girish213o5/LeetCode/tree/master/2226-rings-and-rods) |
 ## Math
 |  |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/girish213o5/LeetCode/tree/master/0394-decode-string) |
 | [0763-special-binary-string](https://github.com/girish213o5/LeetCode/tree/master/0763-special-binary-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/girish213o5/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/girish213o5/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/girish213o5/LeetCode/tree/master/2226-rings-and-rods) |
 ## Backtracking
 |  |
@@ -68,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0394-decode-string](https://github.com/girish213o5/LeetCode/tree/master/0394-decode-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/girish213o5/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+## Counting
+|  |
+| ------- |
+| [2190-count-common-words-with-one-occurrence](https://github.com/girish213o5/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 <!---LeetCode Topics End-->
