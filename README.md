@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/girish213o5/LeetCode/tree/master/0012-integer-to-roman) |
+| [1013-fibonacci-number](https://github.com/girish213o5/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/girish213o5/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## String
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/girish213o5/LeetCode/tree/master/0044-wildcard-matching) |
 | [0394-decode-string](https://github.com/girish213o5/LeetCode/tree/master/0394-decode-string) |
 | [0763-special-binary-string](https://github.com/girish213o5/LeetCode/tree/master/0763-special-binary-string) |
+| [1013-fibonacci-number](https://github.com/girish213o5/LeetCode/tree/master/1013-fibonacci-number) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/girish213o5/LeetCode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/girish213o5/LeetCode/tree/master/0044-wildcard-matching) |
+| [1013-fibonacci-number](https://github.com/girish213o5/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/girish213o5/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Greedy
 |  |
@@ -103,5 +106,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/girish213o5/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/girish213o5/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
