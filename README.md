@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/girish213o5/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/girish213o5/LeetCode/tree/master/0012-integer-to-roman) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/girish213o5/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/girish213o5/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/girish213o5/LeetCode/tree/master/2226-rings-and-rods) |
 ## Math
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/girish213o5/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/girish213o5/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/girish213o5/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/girish213o5/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/girish213o5/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/girish213o5/LeetCode/tree/master/2226-rings-and-rods) |
 ## Backtracking
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/girish213o5/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/girish213o5/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Dynamic Programming
 |  |
