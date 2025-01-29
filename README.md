@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/girish213o5/LeetCode/tree/master/0012-integer-to-roman) |
+| [0062-unique-paths](https://github.com/girish213o5/LeetCode/tree/master/0062-unique-paths) |
 | [1013-fibonacci-number](https://github.com/girish213o5/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/girish213o5/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## String
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/girish213o5/LeetCode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/girish213o5/LeetCode/tree/master/0044-wildcard-matching) |
+| [0062-unique-paths](https://github.com/girish213o5/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/girish213o5/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/girish213o5/LeetCode/tree/master/0120-triangle) |
 | [0376-wiggle-subsequence](https://github.com/girish213o5/LeetCode/tree/master/0376-wiggle-subsequence) |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1013-fibonacci-number](https://github.com/girish213o5/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/girish213o5/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/girish213o5/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
