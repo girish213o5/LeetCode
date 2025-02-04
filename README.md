@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/girish213o5/LeetCode/tree/master/0079-word-search) |
+| [0871-keys-and-rooms](https://github.com/girish213o5/LeetCode/tree/master/0871-keys-and-rooms) |
 ## Recursion
 |  |
 | ------- |
@@ -139,4 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/girish213o5/LeetCode/tree/master/0062-unique-paths) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/girish213o5/LeetCode/tree/master/0871-keys-and-rooms) |
+## Graph
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/girish213o5/LeetCode/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
