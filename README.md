@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/girish213o5/LeetCode/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/girish213o5/LeetCode/tree/master/0120-triangle) |
 | [0376-wiggle-subsequence](https://github.com/girish213o5/LeetCode/tree/master/0376-wiggle-subsequence) |
+| [0695-max-area-of-island](https://github.com/girish213o5/LeetCode/tree/master/0695-max-area-of-island) |
 | [1105-uncrossed-lines](https://github.com/girish213o5/LeetCode/tree/master/1105-uncrossed-lines) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/girish213o5/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/girish213o5/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/girish213o5/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/girish213o5/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/girish213o5/LeetCode/tree/master/0079-word-search) |
+| [0695-max-area-of-island](https://github.com/girish213o5/LeetCode/tree/master/0695-max-area-of-island) |
 ## Simulation
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/girish213o5/LeetCode/tree/master/0079-word-search) |
+| [0695-max-area-of-island](https://github.com/girish213o5/LeetCode/tree/master/0695-max-area-of-island) |
 | [0871-keys-and-rooms](https://github.com/girish213o5/LeetCode/tree/master/0871-keys-and-rooms) |
 ## Recursion
 |  |
@@ -143,9 +146,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/girish213o5/LeetCode/tree/master/0695-max-area-of-island) |
 | [0871-keys-and-rooms](https://github.com/girish213o5/LeetCode/tree/master/0871-keys-and-rooms) |
 ## Graph
 |  |
 | ------- |
 | [0871-keys-and-rooms](https://github.com/girish213o5/LeetCode/tree/master/0871-keys-and-rooms) |
+## Union Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/girish213o5/LeetCode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
