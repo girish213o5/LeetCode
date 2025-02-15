@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/girish213o5/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/girish213o5/LeetCode/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/girish213o5/LeetCode/tree/master/0120-triangle) |
+| [0135-candy](https://github.com/girish213o5/LeetCode/tree/master/0135-candy) |
 | [0376-wiggle-subsequence](https://github.com/girish213o5/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0695-max-area-of-island](https://github.com/girish213o5/LeetCode/tree/master/0695-max-area-of-island) |
 | [1105-uncrossed-lines](https://github.com/girish213o5/LeetCode/tree/master/1105-uncrossed-lines) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/girish213o5/LeetCode/tree/master/0044-wildcard-matching) |
+| [0135-candy](https://github.com/girish213o5/LeetCode/tree/master/0135-candy) |
 | [0376-wiggle-subsequence](https://github.com/girish213o5/LeetCode/tree/master/0376-wiggle-subsequence) |
 ## Sliding Window
 |  |
