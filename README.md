@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/girish213o5/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/girish213o5/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/girish213o5/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/girish213o5/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
 ## String
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/girish213o5/LeetCode/tree/master/0135-candy) |
 | [0376-wiggle-subsequence](https://github.com/girish213o5/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/girish213o5/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/girish213o5/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Sliding Window
 |  |
 | ------- |
