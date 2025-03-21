@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/girish213o5/LeetCode/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/girish213o5/LeetCode/tree/master/0135-candy) |
 | [0376-wiggle-subsequence](https://github.com/girish213o5/LeetCode/tree/master/0376-wiggle-subsequence) |
+| [0540-single-element-in-a-sorted-array](https://github.com/girish213o5/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0695-max-area-of-island](https://github.com/girish213o5/LeetCode/tree/master/0695-max-area-of-island) |
 | [1105-uncrossed-lines](https://github.com/girish213o5/LeetCode/tree/master/1105-uncrossed-lines) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/girish213o5/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/girish213o5/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/girish213o5/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
