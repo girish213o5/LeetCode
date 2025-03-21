@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/girish213o5/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/girish213o5/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0214-shortest-palindrome](https://github.com/girish213o5/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/girish213o5/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/girish213o5/LeetCode/tree/master/0394-decode-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/girish213o5/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0763-special-binary-string](https://github.com/girish213o5/LeetCode/tree/master/0763-special-binary-string) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/girish213o5/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0345-reverse-vowels-of-a-string](https://github.com/girish213o5/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
