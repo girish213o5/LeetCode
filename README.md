@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/girish213o5/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/girish213o5/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/girish213o5/LeetCode/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/girish213o5/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/girish213o5/LeetCode/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/girish213o5/LeetCode/tree/master/0135-candy) |
 | [0376-wiggle-subsequence](https://github.com/girish213o5/LeetCode/tree/master/0376-wiggle-subsequence) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/girish213o5/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/girish213o5/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/girish213o5/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Monotonic Stack
 |  |
@@ -206,5 +208,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/girish213o5/LeetCode/tree/master/0088-merge-sorted-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/girish213o5/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 <!---LeetCode Topics End-->
