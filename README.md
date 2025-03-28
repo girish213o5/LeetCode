@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/girish213o5/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/girish213o5/LeetCode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/girish213o5/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/girish213o5/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/girish213o5/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/girish213o5/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/girish213o5/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/girish213o5/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/girish213o5/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/girish213o5/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -210,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/girish213o5/LeetCode/tree/master/0088-merge-sorted-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/girish213o5/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/girish213o5/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
