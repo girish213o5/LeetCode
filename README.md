@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/girish213o5/LeetCode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/girish213o5/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/girish213o5/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3832-minimum-cost-to-reach-every-position](https://github.com/girish213o5/LeetCode/tree/master/3832-minimum-cost-to-reach-every-position) |
 ## Matrix
 |  |
 | ------- |
