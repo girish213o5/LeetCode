@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/girish213o5/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/girish213o5/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/girish213o5/LeetCode/tree/master/2226-rings-and-rods) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/girish213o5/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/girish213o5/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/girish213o5/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/girish213o5/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/girish213o5/LeetCode/tree/master/2226-rings-and-rods) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/girish213o5/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/girish213o5/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Backtracking
 |  |
