@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/girish213o5/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/girish213o5/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3398-make-a-square-with-the-same-color](https://github.com/girish213o5/LeetCode/tree/master/3398-make-a-square-with-the-same-color) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/girish213o5/LeetCode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/girish213o5/LeetCode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/girish213o5/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/girish213o5/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/girish213o5/LeetCode/tree/master/0079-word-search) |
 | [0695-max-area-of-island](https://github.com/girish213o5/LeetCode/tree/master/0695-max-area-of-island) |
 | [3398-make-a-square-with-the-same-color](https://github.com/girish213o5/LeetCode/tree/master/3398-make-a-square-with-the-same-color) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/girish213o5/LeetCode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/girish213o5/LeetCode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Simulation
 |  |
