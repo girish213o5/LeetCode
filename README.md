@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/girish213o5/LeetCode/tree/master/0079-word-search) |
 | [0144-binary-tree-preorder-traversal](https://github.com/girish213o5/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/girish213o5/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0695-max-area-of-island](https://github.com/girish213o5/LeetCode/tree/master/0695-max-area-of-island) |
 | [0871-keys-and-rooms](https://github.com/girish213o5/LeetCode/tree/master/0871-keys-and-rooms) |
 ## Recursion
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/girish213o5/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/girish213o5/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/girish213o5/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/girish213o5/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0394-decode-string](https://github.com/girish213o5/LeetCode/tree/master/0394-decode-string) |
 | [1078-remove-outermost-parentheses](https://github.com/girish213o5/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/girish213o5/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -235,8 +237,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/girish213o5/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/girish213o5/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/girish213o5/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/girish213o5/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
