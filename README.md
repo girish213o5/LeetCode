@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/girish213o5/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2649-count-total-number-of-colored-cells](https://github.com/girish213o5/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/girish213o5/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
+| [3830-find-closest-person](https://github.com/girish213o5/LeetCode/tree/master/3830-find-closest-person) |
 ## String
 |  |
 | ------- |
