@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/girish213o5/LeetCode/tree/master/1651-shuffle-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/girish213o5/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/girish213o5/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/girish213o5/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3398-make-a-square-with-the-same-color](https://github.com/girish213o5/LeetCode/tree/master/3398-make-a-square-with-the-same-color) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/girish213o5/LeetCode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3429-special-array-i](https://github.com/girish213o5/LeetCode/tree/master/3429-special-array-i) |
@@ -259,4 +260,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/girish213o5/LeetCode/tree/master/0338-counting-bits) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/girish213o5/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 <!---LeetCode Topics End-->
