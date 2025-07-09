@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/girish213o5/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/girish213o5/LeetCode/tree/master/0394-decode-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/girish213o5/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0520-detect-capital](https://github.com/girish213o5/LeetCode/tree/master/0520-detect-capital) |
 | [0763-special-binary-string](https://github.com/girish213o5/LeetCode/tree/master/0763-special-binary-string) |
 | [1078-remove-outermost-parentheses](https://github.com/girish213o5/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/girish213o5/LeetCode/tree/master/1250-longest-common-subsequence) |
