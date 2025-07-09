@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/girish213o5/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/girish213o5/LeetCode/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/girish213o5/LeetCode/tree/master/0041-first-missing-positive) |
+| [0387-first-unique-character-in-a-string](https://github.com/girish213o5/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/girish213o5/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/girish213o5/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/girish213o5/LeetCode/tree/master/2226-rings-and-rods) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/girish213o5/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0214-shortest-palindrome](https://github.com/girish213o5/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/girish213o5/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/girish213o5/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/girish213o5/LeetCode/tree/master/0394-decode-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/girish213o5/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0763-special-binary-string](https://github.com/girish213o5/LeetCode/tree/master/0763-special-binary-string) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/girish213o5/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/girish213o5/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/girish213o5/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Dynamic Programming
@@ -266,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/girish213o5/LeetCode/tree/master/0338-counting-bits) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/girish213o5/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3183-find-the-k-or-of-an-array](https://github.com/girish213o5/LeetCode/tree/master/3183-find-the-k-or-of-an-array) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/girish213o5/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
