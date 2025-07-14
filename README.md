@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/girish213o5/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/girish213o5/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0412-fizz-buzz](https://github.com/girish213o5/LeetCode/tree/master/0412-fizz-buzz) |
 | [3790-fruits-into-baskets-ii](https://github.com/girish213o5/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/girish213o5/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Hash Table
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/girish213o5/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/girish213o5/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/girish213o5/LeetCode/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/girish213o5/LeetCode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/girish213o5/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/girish213o5/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/girish213o5/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/girish213o5/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/girish213o5/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/girish213o5/LeetCode/tree/master/0394-decode-string) |
+| [0412-fizz-buzz](https://github.com/girish213o5/LeetCode/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/girish213o5/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/girish213o5/LeetCode/tree/master/0520-detect-capital) |
 | [0763-special-binary-string](https://github.com/girish213o5/LeetCode/tree/master/0763-special-binary-string) |
