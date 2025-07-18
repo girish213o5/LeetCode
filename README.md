@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/girish213o5/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/girish213o5/LeetCode/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/girish213o5/LeetCode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/girish213o5/LeetCode/tree/master/0217-contains-duplicate) |
 | [0376-wiggle-subsequence](https://github.com/girish213o5/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/girish213o5/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/girish213o5/LeetCode/tree/master/0561-array-partition) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/girish213o5/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/girish213o5/LeetCode/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/girish213o5/LeetCode/tree/master/0041-first-missing-positive) |
+| [0217-contains-duplicate](https://github.com/girish213o5/LeetCode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/girish213o5/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/girish213o5/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/girish213o5/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/girish213o5/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/girish213o5/LeetCode/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/girish213o5/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/girish213o5/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/girish213o5/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
