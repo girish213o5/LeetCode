@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/girish213o5/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2649-count-total-number-of-colored-cells](https://github.com/girish213o5/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/girish213o5/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/girish213o5/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/girish213o5/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3830-find-closest-person](https://github.com/girish213o5/LeetCode/tree/master/3830-find-closest-person) |
 | [3859-maximum-product-of-two-digits](https://github.com/girish213o5/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/girish213o5/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/girish213o5/LeetCode/tree/master/2226-rings-and-rods) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/girish213o5/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/girish213o5/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/girish213o5/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3617-find-the-original-typed-string-i](https://github.com/girish213o5/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/girish213o5/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
