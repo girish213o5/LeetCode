@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2715-k-items-with-the-maximum-sum](https://github.com/girish213o5/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3567-convert-date-to-binary](https://github.com/girish213o5/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3830-find-closest-person](https://github.com/girish213o5/LeetCode/tree/master/3830-find-closest-person) |
+| [3859-maximum-product-of-two-digits](https://github.com/girish213o5/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/girish213o5/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/girish213o5/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/girish213o5/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3859-maximum-product-of-two-digits](https://github.com/girish213o5/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Segment Tree
 |  |
 | ------- |
