@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/girish213o5/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/girish213o5/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/girish213o5/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2308-divide-array-into-equal-pairs](https://github.com/girish213o5/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/girish213o5/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3183-find-the-k-or-of-an-array](https://github.com/girish213o5/LeetCode/tree/master/3183-find-the-k-or-of-an-array) |
 | [3398-make-a-square-with-the-same-color](https://github.com/girish213o5/LeetCode/tree/master/3398-make-a-square-with-the-same-color) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/girish213o5/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/girish213o5/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/girish213o5/LeetCode/tree/master/2226-rings-and-rods) |
+| [2308-divide-array-into-equal-pairs](https://github.com/girish213o5/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/girish213o5/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/girish213o5/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/girish213o5/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/girish213o5/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/girish213o5/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2308-divide-array-into-equal-pairs](https://github.com/girish213o5/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/girish213o5/LeetCode/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/girish213o5/LeetCode/tree/master/0476-number-complement) |
 | [1610-xor-operation-in-an-array](https://github.com/girish213o5/LeetCode/tree/master/1610-xor-operation-in-an-array) |
+| [2308-divide-array-into-equal-pairs](https://github.com/girish213o5/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/girish213o5/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3183-find-the-k-or-of-an-array](https://github.com/girish213o5/LeetCode/tree/master/3183-find-the-k-or-of-an-array) |
 ## Queue
