@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-uncrossed-lines](https://github.com/girish213o5/LeetCode/tree/master/1105-uncrossed-lines) |
 | [1651-shuffle-string](https://github.com/girish213o5/LeetCode/tree/master/1651-shuffle-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/girish213o5/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1791-richest-customer-wealth](https://github.com/girish213o5/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/girish213o5/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/girish213o5/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3183-find-the-k-or-of-an-array](https://github.com/girish213o5/LeetCode/tree/master/3183-find-the-k-or-of-an-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/girish213o5/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/girish213o5/LeetCode/tree/master/0079-word-search) |
 | [0695-max-area-of-island](https://github.com/girish213o5/LeetCode/tree/master/0695-max-area-of-island) |
+| [1791-richest-customer-wealth](https://github.com/girish213o5/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [3398-make-a-square-with-the-same-color](https://github.com/girish213o5/LeetCode/tree/master/3398-make-a-square-with-the-same-color) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/girish213o5/LeetCode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/girish213o5/LeetCode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
