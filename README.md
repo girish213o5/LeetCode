@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/girish213o5/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/girish213o5/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/girish213o5/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/girish213o5/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/girish213o5/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1651-shuffle-string](https://github.com/girish213o5/LeetCode/tree/master/1651-shuffle-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/girish213o5/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/girish213o5/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/girish213o5/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/girish213o5/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/girish213o5/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Dynamic Programming
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/girish213o5/LeetCode/tree/master/0135-candy) |
 | [0376-wiggle-subsequence](https://github.com/girish213o5/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0561-array-partition](https://github.com/girish213o5/LeetCode/tree/master/0561-array-partition) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/girish213o5/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/girish213o5/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/girish213o5/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/girish213o5/LeetCode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
