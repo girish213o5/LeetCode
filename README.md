@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/girish213o5/LeetCode/tree/master/1651-shuffle-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/girish213o5/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1791-richest-customer-wealth](https://github.com/girish213o5/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1833-find-the-highest-altitude](https://github.com/girish213o5/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/girish213o5/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/girish213o5/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3183-find-the-k-or-of-an-array](https://github.com/girish213o5/LeetCode/tree/master/3183-find-the-k-or-of-an-array) |
@@ -321,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/girish213o5/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/girish213o5/LeetCode/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
